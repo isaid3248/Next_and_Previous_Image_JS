@@ -50,8 +50,9 @@ button {
 }
 
 button:hover {
-    transform: scale(1.5);
+    transform: scale(1.4);
     opacity: 1;
+
 }
 
 button:active {
